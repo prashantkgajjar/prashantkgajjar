@@ -31,7 +31,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an not an early 🐤** 
 
 ```text
 🌞 Morning    117 commits    █████░░░░░░░░░░░░░░░░░░░░   19.76% 
