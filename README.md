@@ -7,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [Github](www.github.com/prashantkgajjar)
 - 📫 You can reach me out at [email](pkg195@gmail.com)
 - 📄 Here is my detailed [resume](www.github.com/prashantkgajjar/prashantkgajjar/assests/Prashant_CV_ML)
+- Check out my portfolio website [prashantkgajjar.github.io](prashantkgajjar.github.io)
 
 
 <h3 align="left">Languages and Tools:</h3>
