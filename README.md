@@ -4,10 +4,10 @@
 <h3 align="center">I am Machine Learning Enthusiast</h3>
 
 - 🌱 Having previously worked as Analyst, I am focused on transitioning my career in the field of Machine Learning.
-- 👨‍💻 All of my projects are available at [Github](www.github.com/prashantkgajjar)
-- 📫 You can reach me out at [email](pkg195@gmail.com)
-- 📄 Here is my detailed [resume](www.github.com/prashantkgajjar/prashantkgajjar/assests/Prashant_CV_ML)
-- Check out my portfolio website [prashantkgajjar.github.io](prashantkgajjar.github.io)
+- 👨‍💻 All of my projects are available at [Github](https://www.github.com/prashantkgajjar)
+- 📫 You can reach me out at [email](mailto:pkg195@gmail.com)
+- 📄 Here is my detailed [resume](https://prashantkgajjar.github.io/assets/cv/Prashant_CV_GH.pdf)
+- Check out my portfolio website [prashantkgajjar.github.io](https://prashantkgajjar.github.io)
 
 
 <h3 align="left">Languages and Tools:</h3>
